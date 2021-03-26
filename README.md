@@ -1,6 +1,10 @@
 # annimated_clock
 
-A new Flutter application.
+A new Animated Clock UI in Flutter.
+![Screenshot_1616751556](https://user-images.githubusercontent.com/61883398/112612956-90e8de00-8e45-11eb-9258-28c878da078e.png)
+
+
+
 
 ## Getting Started
 
